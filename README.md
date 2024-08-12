@@ -1,10 +1,10 @@
-Mini Ecommerce Backend
+# Mini Ecommerce Backend
 
-Completed Features
+## Completed Features
 
 1. Add, Read, Edit and Remove Products
 
-Remaining Features
+## Remaining Features
 
 1. Upload Product Images
 2. Implement Search functionality
